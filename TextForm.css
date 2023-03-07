@@ -1,0 +1,10 @@
+.App {
+    background-color: white;
+    color: black;
+  }
+  
+  .App.dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
